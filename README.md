@@ -1,7 +1,7 @@
 # Target-s-Operation-Analysis
 Analyzing Target's operation in Brazil using BigQuery SQL.
 
-1) Performed Exploratory Data Analysis, extracted valuable insights and provided actionable recommendation on the sales dataset of a renowned retail corporation using SQL.
+1) Performed Exploratory Data Analysis, extracted valuable insights and provided actionable recommendation on the extensive dataset of a renowned retail corporation called Target using SQL.
 
 2) The EDA shed light on various aspects of the business, such as order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction levels.
 
